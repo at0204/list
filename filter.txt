@@ -1,0 +1,30 @@
+[Adblock Plus 3.15.2]
+
+! Title: git filter
+! Homepage:
+! 作成者：git
+! 最終更新 
+
+
+
+https://*syosetu.com/*##.c-reaction
+https://*syosetu.com/*##.p-rankingtag
+https://*syosetu.com/*##.c-sns
+https://*syosetu.com/*##.c-novel-attention
+https://*syosetu.com/*##.c-under-nav__pdflilnk
+https://*syosetu.com/*##.upper
+https://*syosetu.com/*##.l-footer
+https://*syosetu.com/*##.p-novelgood-form
+https://*syosetu.com/*##.p-novelpoint-form__description,
+https://*syosetu.com/*##.menu
+https://*syosetu.com/*##.l-footer
+
+https://kakuyomu.jp/*###episodeFooter-author
+https://kakuyomu.jp/*###episodeFooter-recommendedWorks
+https://kakuyomu.jp/*###episodeFooter-cheerSection
+https://kakuyomu.jp/*###react-mount
+https://kakuyomu.jp/*###episodeFooter-workTags
+https://kakuyomu.jp/*###episodeFooter-recommendedKakuyomuNextWorks
+https://kakuyomu.jp/*###myHeaderTouch
+https://kakuyomu.jp/*###episodeFooter-readWithApp-content
+https://kakuyomu.jp/*###antenna-banners
